@@ -3,7 +3,7 @@
 I'm here to explore coding with a twist—leveraging AI for my projects 🦄🐯  
 My approach is unconventional, but hey, who says learning can't be fun? 🦊
 
-![leyolsy](./me.png)
+![leyolsy](./mee.png)
 
 → **Relying on AI for coding** 🐧  
 → *Curious to see where this AI-powered journey leads* 🦄
